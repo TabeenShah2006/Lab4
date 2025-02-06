@@ -3,3 +3,8 @@ int a = 7;
 int b = 3;
 int sum= a+b;
 Console.WriteLine("The sum of two numbers:"+sum);
+
+int a = 10;
+int b = 3;
+int sub= a-b;
+Console.WriteLine("The sub of two numbers:"+sub);
