@@ -8,3 +8,8 @@ int a = 10;
 int b = 3;
 int sub= a-b;
 Console.WriteLine("The sub of two numbers:"+sub);
+
+int a = 5;
+int b = 4;
+int product = a*b;
+Console.WriteLine("The product of two numbers:"+ product);
